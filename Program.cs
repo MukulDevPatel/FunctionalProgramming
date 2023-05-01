@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Functinal Programs");
-            Console.WriteLine("Get the Harmonic Number");
-            HarmonicNumber.HarmonicNum();
+            Console.WriteLine("Get the Factors");
+            Factors.PrimeFactor();
         }
     }
 }
