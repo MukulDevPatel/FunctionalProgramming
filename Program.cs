@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Functinal Programs");
-            Console.WriteLine("Vowel And Consonant");
-            VowelAndConsonant.CheckAlphabet();
+            Console.WriteLine("Find Largest Number among of three");
+            LargestNumber.LargestNum();
         }
     }
 }
