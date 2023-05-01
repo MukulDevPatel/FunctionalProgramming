@@ -1,0 +1,15 @@
+D:\BridgeLabz Second batch\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.exe
+D:\BridgeLabz Second batch\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.deps.json
+D:\BridgeLabz Second batch\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.runtimeconfig.json
+D:\BridgeLabz Second batch\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.dll
+D:\BridgeLabz Second batch\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.pdb
+D:\BridgeLabz Second batch\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.csproj.AssemblyReference.cache
+D:\BridgeLabz Second batch\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz Second batch\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfoInputs.cache
+D:\BridgeLabz Second batch\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfo.cs
+D:\BridgeLabz Second batch\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+D:\BridgeLabz Second batch\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.dll
+D:\BridgeLabz Second batch\FunctionalProgramming\obj\Debug\net6.0\refint\FunctionalProgramming.dll
+D:\BridgeLabz Second batch\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.pdb
+D:\BridgeLabz Second batch\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.genruntimeconfig.cache
+D:\BridgeLabz Second batch\FunctionalProgramming\obj\Debug\net6.0\ref\FunctionalProgramming.dll
